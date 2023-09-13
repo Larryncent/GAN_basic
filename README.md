@@ -1,3 +1,3 @@
 ## GAN_basic
 
-- Using GAN to achieve artificial intelligence image generation.
+- Using tensorflow and keras to implement GAN technology for artificial intelligence image generation.
